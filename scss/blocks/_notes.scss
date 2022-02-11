@@ -1,0 +1,43 @@
+.notes {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+
+    justify-content: center;
+
+    // display: grid;
+    // grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+
+
+
+}
+
+.notes>* {
+    flex: 0 1;
+    padding: 10px;
+    background-color: rgb(255, 236, 227);
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.2);
+    clip-path: polygon(0% 40%, 100% 0%, 100% 100%, 0% 100%) margin-box;
+    margin: 0;
+    transform: rotate(-0.5deg);
+
+}
+
+.note__text {
+    background-color: transparent;
+    background-color: rgb(255, 236, 227);
+    border: none;
+    outline: none;
+    // padding: 5px;
+    max-width: 95vw;
+    // overflow: auto;
+    min-width: 10em;
+    min-height: 10em;
+    height: auto;
+    width: auto;
+    color: rgb(90, 63, 77);
+
+
+}

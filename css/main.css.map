@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AKAA,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,IAAI;EACT,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,MAAM;EAEnB,eAAe,EAAE,MAAM;CAO1B;;AAED,AAAA,MAAM,GAAC,CAAC,CAAC;EACL,IAAI,EAAE,GAAG;EACT,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,OAAkB;EACpC,UAAU,EAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,kBAAkB;EACxC,SAAS,EAAE,4CAA4C,CAAC,UAAU;EAClE,MAAM,EAAE,CAAC;EACT,SAAS,EAAE,eAAe;CAE7B;;AAED,AAAA,WAAW,CAAC;EACR,gBAAgB,EAAE,WAAW;EAC7B,gBAAgB,EAAE,OAAkB;EACpC,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EAEb,SAAS,EAAE,IAAI;EAEf,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,OAAe;CAGzB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_vars.scss",
+        "../scss/_mixins.scss",
+        "../scss/_typography.scss",
+        "../scss/blocks/_notes.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
